@@ -1,0 +1,3 @@
+# Flutter web build artifacts not needed by users
+.last_build_id
+canvaskit/**/*.symbols
